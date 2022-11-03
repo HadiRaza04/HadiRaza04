@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadi Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-- 🔭 I’m currently working on [my Portfolio](https://hadiraza-portfolio.netlify.app/)
+- 🔭 I’m currently working on [Facebook clone]
 
 - 🌱 I’m currently learning **React JS, Firebase Database and Mongo Db.**
 
