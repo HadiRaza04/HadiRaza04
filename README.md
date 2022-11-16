@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hadi Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-- 🔭 I’m currently working on [Facebook clone in React JS]
+- 🔭 I’m currently working on a React Js project.
 
 - 🌱 I’m currently learning **React JS, Firebase Database and Mongo Db.**
 
 - 👨‍💻 All of my projects are available at [https://hadiraza-portfolio.netlify.app/](https://hadiraza-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JS,FireBase and React.**
+- 💬 Ask me about **HTML,CSS,JS,Bootstrap and React JS.**
 
 - 📫 How to reach me **hadiraza.edu@gmail.com**
 
