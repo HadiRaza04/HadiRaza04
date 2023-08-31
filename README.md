@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiraza04&label=Profile%20views&color=0e75b6&style=flat" alt="hadiraza04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadiraza04" alt="hadiraza04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=hadiraza04" alt="hadiraza04" /></a> </p>
 
 - 🔭 I’m currently working on **React JS Project.**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://hadirazaportfolio.web.app/html%20css%20js%20files/Profile.pdf](https://hadirazaportfolio.web.app/html%20css%20js%20files/Profile.pdf)
 
-- ⚡ Fun fact **I inspired by designing not development. I think development is easier than designing.**
+- ⚡ Fun fact **I am inspired by design, not development. I think development is easier than designing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
