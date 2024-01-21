@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-JS, Node-JS with Express & MongoDB.**
 
-- 👨‍💻 All of my projects are available at [https://hadirazaportfolio.web.app/](https://hadirazaportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://hadiraza.vercel.app/](https://hadiraza.vercel.app/)(https://hadiraza.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React-JS.**
 
