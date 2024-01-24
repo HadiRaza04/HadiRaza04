@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React-JS, Node-JS with Express & MongoDB.**
 
-- 👨‍💻 All of my projects are available at [https://hadiraza.vercel.app/](https://hadiraza.vercel.app/)(https://hadiraza.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hadiraza.vercel.app/](https://hadiraza.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React-JS.**
 
 - 📫 How to reach me **hadiraza.edu@gmail.com**
 
-- 📄 Know about my experiences [https://hadirazaportfolio.web.app/html%20css%20js%20files/Profile.pdf](https://hadirazaportfolio.web.app/html%20css%20js%20files/Profile.pdf)
+- 📄 Know about my experiences [https://hadiraza.vercel.app/resume/](https://hadiraza.vercel.app/resume)
 
 - ⚡ Fun fact **I am inspired by design, not development. I think development is easier than designing.**
 
