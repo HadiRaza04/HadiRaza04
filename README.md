@@ -43,3 +43,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiraza04&show_icons=true&locale=en" alt="hadiraza04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiraza04&" alt="hadiraza04" /></p>
+
+
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
