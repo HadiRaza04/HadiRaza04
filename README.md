@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hadi Raza</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiraza04&label=Profile%20views&color=0e75b6&style=flat" alt="hadiraza04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadiraza04" alt="hadiraza04" /></a> </p>
