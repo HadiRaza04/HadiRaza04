@@ -62,16 +62,38 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="background:#0d1117; padding:8px; border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" style="background:#0d1117; padding:8px; border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="background:#0d1117; padding:8px; border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="background:#0d1117; padding:8px; border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" style="background:#0d1117; padding:8px; border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" style="background:#0d1117; padding:8px; border-radius:10px;" />
+<p align="center"><b>Frontend</b></p>
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+</p>
 
+<p align="center"><b>Backend</b></p>
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+</p>
+
+<p align="center"><b>Tools & Others</b></p>
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="background:#0d1117;padding:8px;border-radius:10px;">
 </p>
 
 ---
